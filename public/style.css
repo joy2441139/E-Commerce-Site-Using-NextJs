@@ -1,0 +1,15 @@
+.rootcard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pcard {
+  max-width: 40%;
+  margin: 20px;
+}
+.authcard {
+  margin: 10px auto !important;
+  max-width: 500px !important;
+  padding: 10px;
+}
