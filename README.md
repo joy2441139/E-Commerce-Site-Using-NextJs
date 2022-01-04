@@ -2,7 +2,8 @@
 email: admin@gmail.com
 password: 12345
 ==========================
-
+install all dependencies
+Create a .env file in root folder
 Start project: npm run dev
 
 ==========================
@@ -17,3 +18,5 @@ vii) User can clear their cartlist
 viii) Cookies system for individual user
 xi) User/Admin can logout and it will remove their cookies
 x) One can not navigate cart/account without login
+
+==============================
